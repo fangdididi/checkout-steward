@@ -1,0 +1,14 @@
+{
+  "today": "2026-10-21",
+  "channel": "pickup",
+  "basket_total": "46.30",
+  "budget": "50",
+  "offers": [
+    {"title": "Spend 40 save 5", "expires": "2026-10-23", "channel": "any", "min_spend": "40", "saves": "5"},
+    {"title": "Spend 70 save 10", "expires": "2026-10-22", "channel": "pickup", "min_spend": "70", "saves": "10"},
+    {"title": "Spend 50 save 6", "expires": "2026-11-15", "channel": "pickup", "min_spend": "50", "saves": "6"},
+    {"title": "Free delivery", "expires": "2026-10-30", "channel": "delivery", "min_spend": "0", "saves": "3.99"},
+    {"title": "Yogurt 2-for-1", "expires": "2026-10-19", "channel": "any", "min_spend": "0", "saves": "1.80"},
+    {"title": "Mystery member coupon", "channel": "unknown", "min_spend": "0", "saves": "2"}
+  ]
+}

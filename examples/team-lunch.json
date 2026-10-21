@@ -1,0 +1,18 @@
+{
+  "currency_symbol": "$",
+  "payer": "Maya",
+  "quote_total": "64.10",
+  "lines": [
+    {"who": "Maya", "item": "Chicken rice bowl", "price": "13.50"},
+    {"who": "Leo", "item": "Veggie wrap", "price": "10.90"},
+    {"who": "Leo", "item": "Iced tea", "price": "2.80"},
+    {"who": "Priya", "item": "Salmon poke", "price": "15.20"},
+    {"who": "Sam", "item": "Falafel plate", "price": "11.40"},
+    {"who": "Jun", "item": "Beef noodles", "price": "14.30", "qty": 1}
+  ],
+  "line_discounts": [{"who": "Sam", "amount": "2.00", "note": "Sam's own first-order coupon"}],
+  "basket_discounts": [{"amount": "8.00", "note": "spend 60, save 8"}],
+  "shared_fees": [{"amount": "4.99", "note": "delivery"}, {"amount": "1.01", "note": "service"}],
+  "discount_policy": "proportional",
+  "fee_policy": "equal"
+}
